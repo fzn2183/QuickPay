@@ -1,1 +1,1 @@
-# QuickPay-
+# QuickPay
