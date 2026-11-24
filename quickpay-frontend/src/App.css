@@ -1,0 +1,136 @@
+
+.app-layout {
+  display: flex;
+  min-height: 100vh;
+  background-color: #f5f7fb;
+}
+
+.sidebar {
+  width: 240px;
+  min-height: 100vh;
+  background-color: #172554;
+  color: white;
+  padding: 25px 20px;
+  box-sizing: border-box;
+}
+
+.logo {
+  margin-bottom: 40px;
+}
+
+.balance-card{
+  background-color: white;
+  padding: 25px;
+  margin-top: 30px;
+  border-radius: 12px;
+  max-width:450px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.06);
+}
+.balance-card p{
+color: #64748b;
+margin-bottom: 10px;
+}
+
+.balance-card h2{
+  font-size: 32px;
+color: #172554;
+margin-bottom: 15px;
+}
+
+.sidebar-menu p {
+  padding: 12px;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.sidebar-menu p:hover {
+  background-color: #263b70;
+}
+
+.sidebar {
+  width: 240px;
+  min-height: 100vh;
+    background-color: #172554;
+  color: white;
+  padding: 25px 20px;
+  box-sizing: border-box;
+}
+
+.main-content {
+  flex: 1;
+  padding: 35px;
+  color: #172554;
+}
+
+.transaction-card{
+  background-color: white;
+  padding: 25px;
+  margin: top 25px;
+  border-radius: 12px;
+  max-width:600px;
+  box-shadow:0 4px 15px rgba(0,0,0,0.06);
+
+}
+
+.transaction-card h2
+{ 
+color:#172554;
+margin: bottom 20px;
+}
+
+.transaction-item{
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+ padding:15px 0;
+ border-bottom: 1px solid #e5e7eb;
+}
+
+.transaction-item p{
+  color: #64748b;
+  margin-top:5px;
+
+}
+
+.transaction-item h3{
+  font-size:16px;
+}
+
+.send-money-card{
+  background-color: white;
+  padding: 25px;
+  margin-top: 25px;
+  max-width: 450px;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.06);
+}
+
+.send-money-card h2{
+  color:#172554;
+  margin-bottom: 20px;
+
+}
+
+.send-money-card label{
+  display: block;
+  margin: 15px 0 8px;
+}
+
+.send-money-card input{
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #cbd5e1;
+  border-radius: 7px;
+  font-size:15px;
+}
+
+.send-money-card button{
+  width: 100%;
+  padding: 13px;
+  margin-top: 20px;
+  background-color: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 7px;
+  cursor: pointer;
+}

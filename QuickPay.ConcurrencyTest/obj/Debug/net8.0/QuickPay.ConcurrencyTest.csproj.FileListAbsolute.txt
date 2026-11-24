@@ -1,0 +1,14 @@
+D:\Test\Best26\QuickPay.ConcurrencyTest\bin\Debug\net8.0\QuickPay.ConcurrencyTest.exe
+D:\Test\Best26\QuickPay.ConcurrencyTest\bin\Debug\net8.0\QuickPay.ConcurrencyTest.deps.json
+D:\Test\Best26\QuickPay.ConcurrencyTest\bin\Debug\net8.0\QuickPay.ConcurrencyTest.runtimeconfig.json
+D:\Test\Best26\QuickPay.ConcurrencyTest\bin\Debug\net8.0\QuickPay.ConcurrencyTest.dll
+D:\Test\Best26\QuickPay.ConcurrencyTest\bin\Debug\net8.0\QuickPay.ConcurrencyTest.pdb
+D:\Test\Best26\QuickPay.ConcurrencyTest\obj\Debug\net8.0\QuickPay.ConcurrencyTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\Best26\QuickPay.ConcurrencyTest\obj\Debug\net8.0\QuickPay.ConcurrencyTest.AssemblyInfoInputs.cache
+D:\Test\Best26\QuickPay.ConcurrencyTest\obj\Debug\net8.0\QuickPay.ConcurrencyTest.AssemblyInfo.cs
+D:\Test\Best26\QuickPay.ConcurrencyTest\obj\Debug\net8.0\QuickPay.ConcurrencyTest.csproj.CoreCompileInputs.cache
+D:\Test\Best26\QuickPay.ConcurrencyTest\obj\Debug\net8.0\QuickPay.ConcurrencyTest.dll
+D:\Test\Best26\QuickPay.ConcurrencyTest\obj\Debug\net8.0\refint\QuickPay.ConcurrencyTest.dll
+D:\Test\Best26\QuickPay.ConcurrencyTest\obj\Debug\net8.0\QuickPay.ConcurrencyTest.pdb
+D:\Test\Best26\QuickPay.ConcurrencyTest\obj\Debug\net8.0\QuickPay.ConcurrencyTest.genruntimeconfig.cache
+D:\Test\Best26\QuickPay.ConcurrencyTest\obj\Debug\net8.0\ref\QuickPay.ConcurrencyTest.dll
